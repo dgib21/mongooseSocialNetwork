@@ -1,0 +1,27 @@
+{
+  "name": "mongoosesocialnetwork",
+  "version": "1.0.0",
+  "description": "Restful API that allows users to perform CRUD operations.",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "node": "^15.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgib21/mongooseSocialNetwork.git"
+  },
+  "author": "Devin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgib21/mongooseSocialNetwork/issues"
+  },
+  "homepage": "https://github.com/dgib21/mongooseSocialNetwork#readme"
+}
